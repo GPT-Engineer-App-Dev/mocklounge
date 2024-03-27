@@ -1,6 +1,6 @@
 # mocklounge
 
-mock
+REPLACE_WITH_PROJECT_DESCRIPTION
 
 ## Collaborate with GPT Engineer
 
